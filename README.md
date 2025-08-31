@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Milan Mihelic and I am QA automation tester from Serbia ready to start a new career. I finished crashcourse for manual testing (writing test cases, test scenarios, bug reports...), API testing (Postman) and automation testing (Selenium, WebDriver, TestNG, Java...). I was working as spatial and urban planner for 17 years and I have a lot experience in teamwork and deadlines. I have sharp eye and I am fully dedicated to the details. I am willing to learn new tools and technologies. Here on my GitHub account you can find some examples of my tests and scripts. I am open for collaboration and I am looking forward it.
 
 <!--
 **MilanKile/MilanKile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
